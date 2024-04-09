@@ -393,7 +393,7 @@ plt.axis('equal')
 plt.subplot(1, 2, 2)
 
 # Calculate the average loan amount to assume the total loss and total profit
-avg_loans =  dfloan['funded_amnt'].mean()
+avg_loans = dfloan['funded_amnt'].mean()
 
 # Calculate the total loan amount funded
 sum_loan = dfloan['funded_amnt'].sum()
@@ -2132,7 +2132,7 @@ total_clients_test = X_test_scaled.shape[0]
 total_bad_loans_before = dfloan.loan_status.value_counts()[1]
 total_good_loans_before = dfloan.loan_status.value_counts()[0]
 total_loan = dfloan.funded_amnt.sum() # Aggregated good loan + bad loan
-avg_loan =  total_loan / dfloan.shape[0] # average loan
+avg_loan = total_loan / dfloan.shape[0] # average loan
 
 # Calculate the default rate before the model
 dr_before_model = total_bad_loans_before / total_clients
