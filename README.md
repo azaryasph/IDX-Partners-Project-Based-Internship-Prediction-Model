@@ -12,7 +12,15 @@
   </a>
 </p>
 
-# <img src="./images/Logo_Rakamin_IDX_Partners.png" width="80"> PBI IDX Partners Data Science: <br>Develop a Classification Model to Predict Borrowers Creditworthiness   <img src="./images/Logo_Rakamin_IDX_Partners.png" width="80">
+# PBI IDX Partners Data Science Final Task: <br>Develop a Classification Model to Predict Borrowers Creditworthiness
+
+<p align="center">
+    <img src="./images/idxpartners_img.png" width="350" height="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Red_X.svg/2048px-Red_X.svg.png" width= 45>
+    <img src="./images/rakaminlogo_img.png" width="280" height="100">      
+</p>
+
+--------------------------
 
 ## 📚 Table of Contents
 - [Introduction](#introduction)
