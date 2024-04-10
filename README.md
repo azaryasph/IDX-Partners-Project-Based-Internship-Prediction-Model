@@ -12,7 +12,7 @@
   </a>
 </p>
 
-# PBI IDX Partners Data Science Final Task: <br>Develop a Classification Model to Predict Borrowers Creditworthiness
+# PBI IDX Partners Data Science Final Project: <br>Develop a Classification Model to Predict Borrowers Creditworthiness
 
 <p align="center">
     <img src="./images/idxpartners_img.png" width="350" height="100">
